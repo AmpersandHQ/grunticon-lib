@@ -1,7 +1,7 @@
 {
   "name": "@ampersandhq/grunticon-lib",
   "description": "Stand-alone library for Grunticon",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "homepage": "https://github.com/filamentgroup/grunticon-lib",
   "author": {
     "email": "hello@filamentgroup.com",
